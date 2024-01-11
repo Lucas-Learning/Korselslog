@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\bin\Debug\Kørselslog.exe.config
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\bin\Debug\Kørselslog.exe
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\bin\Debug\Kørselslog.pdb
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\obj\Debug\Kørselslog.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\obj\Debug\Kørselslog.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\obj\Debug\Kørselslog.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\obj\Debug\Kørselslog.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\obj\Debug\Kørselslog.exe
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\obj\Debug\Kørselslog.pdb
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\obj\Debug\Kørselslog.Form1.resources
+C:\Users\Administrator\Source\Repos\Kørselslog\Kørselslog\obj\Debug\Kørselslog.Form2.resources
